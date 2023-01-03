@@ -1,4 +1,4 @@
-#United States Geological Survey Earthquake Data
+# United States Geological Survey Earthquake Data
 
 Earthquake Map Visualization: https://bmilne64.github.io/leaflet-challenge/
 
