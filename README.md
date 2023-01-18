@@ -1,6 +1,6 @@
 # United States Geological Survey Earthquake Data
 
-Earthquake Map Visualization: https://bmilne64.github.io/leaflet-challenge/
+Earthquake Map Visualization: https://bmilne64.github.io/USGS-Earthquake-Data/
 
 In this project, I utilized Leaflet to visualize an USGS earthquake dataset. 
 
