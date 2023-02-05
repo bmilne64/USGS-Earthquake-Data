@@ -1,13 +1,31 @@
-# United States Geological Survey Earthquake Data
+## United States Geological Survey Earthquake Data
 
-Earthquake Map Visualization: https://bmilne64.github.io/USGS-Earthquake-Data/
+![](images/screen_view.png)
 
-In this project, I utilized Leaflet to visualize an USGS earthquake dataset. 
+Full-Stack Data Analysis to build an interactive dashboard exploring the Belly Button Biodiversity Dataset, which catalogs the microbes that colonize human navels, using Plotly.js.
 
-First, I created a map that plotted all the earthquakes from the dataset based on their longitude and latitude. 
+### Dataset:
 
-The data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color. 
+ [USGS Earthquake Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php).
 
-Popups provide additional information about the earthquake including the location, magnitude, depth and time when its associated marker is clicked. 
+## Objectives
 
-Additionally, I created a legend that provides context for the map data. 
+### Step 1 - D3 Import 
+
+* Use the D3 library to read in all_week.geojson from the URL
+
+### Step 2 - Leaflet Visualization
+
+* Utilize Leaflet to visualize an USGS earthquake dataset
+    * Create a map that plots all the earthquakes from the dataset based on their longitude and latitude
+        *  Data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color
+            * Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color
+![](images/markers.png)
+        * Popups provide additional information about the earthquake including the location, magnitude, depth and time when its associated marker is clicked
+![](images/pop_ups.png)
+        * Legend provides context for the map data
+![](images/legend.png)
+
+---------------------------------------------------
+
+<b>Contact:</b> bronwynmilne64@gmail.com
