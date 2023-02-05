@@ -2,7 +2,7 @@
 
 ![](images/screen_view.png)
 
-Full-Stack Data Analysis to build an interactive dashboard exploring the Belly Button Biodiversity Dataset, which catalogs the microbes that colonize human navels, using Plotly.js.
+Web Data Visualization of Earthquakes using Leaflet
 
 ### Dataset:
 
@@ -20,10 +20,13 @@ Full-Stack Data Analysis to build an interactive dashboard exploring the Belly B
     * Create a map that plots all the earthquakes from the dataset based on their longitude and latitude
         *  Data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color
             * Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color
+            
 ![](images/markers.png)
         * Popups provide additional information about the earthquake including the location, magnitude, depth and time when its associated marker is clicked
+        
 ![](images/pop_ups.png)
         * Legend provides context for the map data
+
 ![](images/legend.png)
 
 ---------------------------------------------------
