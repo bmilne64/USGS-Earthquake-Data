@@ -18,16 +18,17 @@ Visualize Web Data of Earthquakes using Leaflet
 
 * Utilize Leaflet to visualize an USGS earthquake dataset
     * Create a map that plots all the earthquakes from the dataset based on their longitude and latitude
-    *  Data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color
-            * Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color
+
+*  Data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color
+    * Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in color
             
 ![](images/markers.png)
        
-    * Popups provide additional information about the earthquake including the location, magnitude, depth and time when its associated marker is clicked
+* Popups provide additional information about the earthquake including the location, magnitude, depth and time when its associated marker is clicked
         
 ![](images/pop_ups.png)
         
-    * Legend provides context for the map data
+* Legend provides context for the map data
 
 ![](images/legend.png)
 
